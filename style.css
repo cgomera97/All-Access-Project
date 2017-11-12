@@ -128,8 +128,8 @@ html {
 	margin-top: 130px;
 }
 .bar2 {
-	margin-left: 1000px;
 	position: fixed;
+	margin-left: 1000px;
 	width: 100px;
 	height: 500px;
 	border-radius: 45px;
