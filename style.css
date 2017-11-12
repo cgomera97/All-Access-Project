@@ -121,7 +121,7 @@ html {
 
 .bar1 {
 	position: fixed;
-	margin-left: 10px;
+	margin-left: 1%;
 	width: 100px;
 	height: 500px;
 	border-radius: 45px;
@@ -129,7 +129,7 @@ html {
 }
 .bar2 {
 	position: fixed;
-	margin-left: 1260px;
+	margin-left: 92%;
 	width: 100px;
 	height: 500px;
 	border-radius: 45px;
